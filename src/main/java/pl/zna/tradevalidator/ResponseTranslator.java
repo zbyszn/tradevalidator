@@ -1,8 +1,7 @@
 package pl.zna.tradevalidator;
 
-import org.springframework.util.LinkedMultiValueMap;
+import pl.zna.tradevalidator.model.TradeInfo;
 
-import java.util.LinkedList;
 import java.util.List;
 
 /**
